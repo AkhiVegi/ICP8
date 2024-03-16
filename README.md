@@ -1,7 +1,7 @@
 # ICP8
 ## Student Name: Vegi Akhilandeswari
 ## Student Id: 700758173
-## Video Link: 
+## Video Link: https://drive.google.com/file/d/1Y0dtNgTH4AIIgdDcAYfXCHFRFCQUVgEU/view?usp=share_link
 
 ### NN & DeepLearning : Image Classification with CNN_ICP8
 Lesson Overview:
